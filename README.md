@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suryabh-Bhattacharya
 - 👀 I’m interested in startups and problem solving
 - 🌱 I’m currently a student at NIT Trichy
-- 💞️ I’m looking to collaborate on anytging that will get me experience.
+- 💞️ I’m looking to collaborate on anything that will get me experience.
 - 📫 You can reach me at suparnasuryabh@gmail.com
 
 <!---
